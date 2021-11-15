@@ -8,6 +8,6 @@ public class HelloWorldController {
 
     @GetMapping("/")
     public String helloWorld() {
-        return "Hello World. Automatic Deployment !!";
+        return "Hello World. Automatic Deployment 2 !!";
     }
 }
